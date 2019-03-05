@@ -1,0 +1,1 @@
+[python, ruby, php, node のループの速さ](https://qiita.com/Nabetani/items/581cc1d0ed4369e3bf3e) のマイクロベンチマーク
